@@ -1,0 +1,9 @@
+Package: com.r8rj.splashtweak
+Name: R8RJ Splash Tweak
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: شاشة ترحيبية فخمة مخصصة لحقن تطبيقات الـ IPA بقنوات وحسابات المطور R8RJ.
+Maintainer: R8RJ
+Author: R8RJ
+Section: Tweaks
